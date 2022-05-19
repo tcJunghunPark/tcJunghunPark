@@ -2,7 +2,7 @@
 Doing Computer Science master'degree from StonyBrook University.
 Working on indoor localization system with GNSS Spoofing technology as a project.
 - 💻 Software Engineer at [IDCITI](http://idciti.com/)
-- 👀 I’m interested in Computer Vision, Localization, Machine Learning, and IOS
+- 👀 I’m interested in Computer Vision, Localization, Machine Learning, and iOS
 - 🛰 I'm working on uGPS project that provides GNSS service in an indoor environment
 - 🌱 I’m currently studying Machine Learning
 - 📔 [My Blog](https://velog.io/@tacohun21)
