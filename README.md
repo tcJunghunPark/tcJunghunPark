@@ -6,7 +6,7 @@ Working on indoor localization system with GNSS Spoofing technology as a project
 - 💻 Software Engineer at [IDCITI](http://idciti.com/)
 - 👀 I’m interested in Computer Vision, Localization, Machine Learning, and iOS
 - 🛰 I'm working on uGPS project that provides GNSS service in an indoor environment
-- 🌱 I’m currently studying Machine Learning
+- 🌱 I’m currently studying Docker, k8s
 - 📔 [My Blog](https://velog.io/@tacohun21)
 - 📝 [My Portfolio (KOR)](https://tacohun.notion.site/Junghun-s-3ab3c3f3001b42d7bcce3e510f38eff8)
 - 📝 [My Portfolio (ENG)](https://tacohun.notion.site/Junghun-s-Portfolio-a00b49b7646949bd88e8454323caf25a)
