@@ -8,7 +8,7 @@ Working on indoor localization system with GNSS Spoofing technology as a project
 - 🛰 I'm working on uGPS project that provides GNSS service in an indoor environment
 - 🌱 I’m currently studying Docker, k8s
 - 📔 [My Blog](https://velog.io/@tacohun21)
-- 📝 Portfolio : junghun-park.com
+- 📝 [Portfolio](junghun-park.com)
 - 📫 How to reach me : tacohun21@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
