@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Junghun Park!
 
-Computer Science master from StonyBrook University (mobile network reseach). 
+Master of Computer Science StonyBrook University (Mobile Computing & Wireless Network Reseach). 
 
 Working on indoor localization system with GNSS Spoofing technology as a project.
 - 💻 Software Engineer at [IDCITI](http://idciti.com/)
