@@ -5,7 +5,7 @@ Software Engineer at CLUMIO inc.
 Master of Computer Science StonyBrook University (Mobile Computing & Wireless Network Reseach). 
 
 Quality Engineer, responsible for quality assurance automation, CICD, feature tests, and monitoring. Wrote tests in Python, interacting with Jenkins, AWS and Clumio's software.
-- 💻 Software Engineer at [CLUMIO](http://clum.io.com/)
+- 💻 Software Engineer at [CLUMIO](http://clumio.com/)
 - 👀 I’m interested in Automation, Serverless, Cloud Environment.
 - 📔 [My Blog](https://velog.io/@tacohun21)
 - 📝 [Portfolio](https://tacohun.notion.site/Junghun-s-Portfolio-EN-a00b49b7646949bd88e8454323caf25a)
