@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Junghun Park!
 
-Software Engineer at CLUMIO inc.
+Software Engineer at CLUMIO, A Commvault Company.
 
-Master of Computer Science StonyBrook University (Mobile Computing & Wireless Network Reseach). 
+Master of Computer Science StonyBrook University (Mobile Computing & Wireless Network Research). 
 
 Quality Engineer, responsible for quality assurance automation, CICD, feature tests, and monitoring. Wrote tests in Python, interacting with Jenkins, AWS and Clumio's software.
 - 💻 Software Engineer at [CLUMIO](http://clumio.com/)
