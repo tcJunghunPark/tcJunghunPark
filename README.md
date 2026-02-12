@@ -38,7 +38,7 @@ I am particularly interested in distributed systems, multi-cloud architectures, 
 ## 🛠 Tech Stack
 
 ### Languages
-Python · Go · Swift
+Python · Go
 
 ### Cloud Platforms
 AWS · GCP
